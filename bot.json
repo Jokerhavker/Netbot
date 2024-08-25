@@ -5,6 +5,4 @@
   "git_remote":"git@github.com:Jokerhavker/Netbot"
 }
 
-  const token = process.env.BOT_TOKEN;
-// Example: Bot initialization with the new token
-const bot = new TelegramBot(token, { polling: true });
+  
